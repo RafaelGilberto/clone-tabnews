@@ -1,5 +1,6 @@
 function Home(){
-    return <h1>Sorria você esta sendo filmado =)</h1>
+    return <><h1>Sorria você esta sendo filmado =)</h1>
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8449490e-eb15-4e41-a595-3469e4f7bdd2/dezmo5v-590ee841-b813-423c-8daa-c8362247fb6e.jpg/v1/fill/w_1131,h_707,q_70,strp/megumin_explosion_by_thecatrizable_dezmo5v-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6Ii9mLzg0NDk0OTBlLWViMTUtNGU0MS1hNTk1LTM0NjllNGY3YmRkMi9kZXptbzV2LTU5MGVlODQxLWI4MTMtNDIzYy04ZGFhLWM4MzYyMjQ3ZmI2ZS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.WTHN8VBwuMLWDU2NYizD6U9uNBzQqtAhTtjVq0SrOCQ"/></>
 }
 
 export default Home;
